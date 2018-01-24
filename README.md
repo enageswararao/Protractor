@@ -1,35 +1,23 @@
-# protractor-cucumber-example
-Example project using Protractor with Cucumber and Page Objects
-
-This creates some basic cucumber tests using the same Super Calculator application used in the official Protractor tutorial - http://juliemr.github.io/protractor-demo/
-
-
-## Getting Started
 
 ### Clone Repository
 
 ```
-git clone https://github.com/mlev/protractor-cucumber-example.git
-cd protractor-cucumber-example
+git clone https://github.com/enageswararao/Protractor.git
+cd Protractor
 ```
+Follow the Steps 
+1.Create NewFloder <TestProject> (example :D:\TestProject)
+2.Unzip given project (example : D:\TestProject\Protractor)
+3.Open Cmd 
+ Navigate above project Dir
+ cd D:
+ cd TestProject
+ cd Protractor
 
-### Install Dependencies
+D:\TestProject\Protractor 
 
-```
-npm install
-```
-
-### Start Webdriver Manager (in 1 terminal window)
-
-```
-npm run start-webdriver
-```
-
-
-### Run Protractor (in another terminal window)
-
-```
+4.npm install
+5.npm run start-webdriver
+6.Open  another Cmd window
 npm run protractor
-```
-
 
